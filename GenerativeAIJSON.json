@@ -1,0 +1,134 @@
+[
+    {
+        "Genre": "Product management",
+        "Plot": "The document describes the key linkages between user groups and user journey",
+        "author": "Gartner",
+        "Source": "Internal company knowledge base"
+    },
+    {
+        "Genre": "Engineering management",
+        "Plot": "This document focuses on technical team leadership and project management",
+        "author": "TechWorld",
+        "Source": "Company's technical repository"
+    },
+    {
+        "Genre": "Analyst",
+        "Plot": "Analyzing trends, data, and providing insights for decision-making",
+        "author": "Data Insights Inc.",
+        "Source": "External research reports"
+    },
+    {
+        "Genre": "Finance management",
+        "Plot": "Exploring financial strategies and risk management techniques",
+        "author": "Finance Experts Group",
+        "Source": "Financial journals and industry reports"
+    },
+    {
+        "Genre": "Marketing strategies",
+        "Plot": "Analyzing market trends and developing promotional strategies",
+        "author": "MarketingGurus",
+        "Source": "Marketing research papers and case studies"
+    },
+    {
+        "Genre": "Astronomy",
+        "Plot": "Studying celestial objects, their behavior, and interactions in the universe",
+        "author": "Galactic Observatories",
+        "Source": "Observational studies and space telescopes"
+    },
+    {
+        "Genre": "Economics",
+        "Plot": "Analyzing production, distribution, and consumption of goods and services",
+        "author": "Econometrics Inc.",
+        "Source": "Economic reports and scholarly articles"
+    },
+    {
+        "Genre": "Physics",
+        "Plot": "Studying matter, energy, and their interactions in the physical world",
+        "author": "Physics Society",
+        "Source": "Scientific experiments and theoretical research"
+    },
+    {
+        "Genre": "Healthcare",
+        "Plot": "Exploring medical treatments, patient care, and disease management",
+        "author": "Health Innovations Group",
+        "Source": "Medical journals and clinical trials"
+    },
+    {
+        "Genre": "Environmental science",
+        "Plot": "Studying the environment, ecosystems, and human impact on nature",
+        "author": "Eco Research Institute",
+        "Source": "Field studies and environmental impact assessments"
+    },
+    {
+        "Genre": "Robotics",
+        "Plot": "Developing robots for various applications and automated systems",
+        "author": "Robotics Innovations Ltd.",
+        "Source": "Robotics conferences and engineering journals"
+    },
+    {
+        "Genre": "Neuroscience",
+        "Plot": "Studying the nervous system and brain functions",
+        "author": "Neurology Research Foundation",
+        "Source": "Neuroscience experiments and brain imaging studies"
+    },
+    {
+        "Genre": "Chemistry",
+        "Plot": "Studying composition, properties, and reactions of substances",
+        "author": "Chemical Society",
+        "Source": "Laboratory experiments and chemical analysis"
+    },
+    {
+        "Genre": "Data science",
+        "Plot": "Analyzing and interpreting complex data to extract valuable insights",
+        "author": "Data Analytics Corp.",
+        "Source": "Data sets and machine learning models"
+    },
+    {
+        "Genre": "Biotechnology",
+        "Plot": "Applying biological systems to develop products and technologies",
+        "author": "BioTech Innovations",
+        "Source": "Biomedical research and genetic engineering"
+    },
+    {
+        "Genre": "Social sciences",
+        "Plot": "Studying human society and social relationships",
+        "author": "Social Research Institute",
+        "Source": "Sociological surveys and anthropological studies"
+    },
+    {
+        "Genre": "History",
+        "Plot": "Studying past events, societies, and cultural changes",
+        "author": "Historical Society",
+        "Source": "Archaeological findings and historical documents"
+    },
+    {
+        "Genre": "Artificial intelligence",
+        "Plot": "Developing intelligent machines and algorithms",
+        "author": "AI Innovations Co.",
+        "Source": "AI conferences and machine learning research"
+    },
+    {
+        "Genre": "Genetics",
+        "Plot": "Studying genes, heredity, and genetic variation",
+        "author": "Genetics Research Institute",
+        "Source": "Genomic studies and DNA sequencing"
+    },
+    {
+        "Genre": "Mathematics",
+        "Plot": "Studying patterns, structure, and relationships among numbers and shapes",
+        "author": "Mathematical Society",
+        "Source": "Mathematical proofs and theorems"
+    },
+    {
+        "Genre": "Education",
+        "Plot": "Understanding learning processes and educational systems",
+        "author": "Education Insights",
+        "Source": "Pedagogical research and educational psychology"
+    },
+    {
+        "Genre": "Law",
+        "Plot": "Interpreting and applying rules and regulations in society",
+        "author": "Legal Experts Group",
+        "Source": "Legal cases and jurisprudence"
+    }
+]
